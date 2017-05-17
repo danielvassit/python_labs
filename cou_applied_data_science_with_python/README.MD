@@ -1,4 +1,8 @@
 
+# Applied Data Science with Python
+
+This are notes from Coursera course "Applied Data Science with Python".
+
 # Prerequisites
 
 Install python 3:
