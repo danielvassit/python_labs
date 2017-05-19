@@ -23,3 +23,4 @@ This repo contains sample python code.
 # Coursera - Applied Data Science with Python 
 I. Introduction to Data Science in Python 
 1. Week 1 - list, tuple, dictionary, loops, string slicing, csv, set, datetime, object, map, lambda, list comprehensions, numpy
+2. Week 2 - 

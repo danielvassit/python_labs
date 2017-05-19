@@ -174,7 +174,8 @@ print(len(x))
 
 
 # ======================================================================================
-# 17. Print string sales_statement replacing empty brackets with words from dictionary
+# 17. Print string sales_statement replacing empty brackets with words from dictionary,
+#     last empty bracket should be filled with num_items * price
 # ======================================================================================
 
 sales_record = {
@@ -227,7 +228,7 @@ today - delta
 
 
 # ======================================================================================
-# 22. Create class Pearson with attribute department set to "School" and tow methods, one
+# 22. Create class Pearson with attribute department set to "School" and two methods, one
 #     for setting name and one for setting location
 # ======================================================================================
 

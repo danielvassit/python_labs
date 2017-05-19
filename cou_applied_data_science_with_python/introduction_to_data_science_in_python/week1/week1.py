@@ -33,7 +33,7 @@ e = add_numbers
 
 
 # ======================================================================================
-# 5. Create list, tuple, map with values 1, 2, 3
+# 5. Create list, tuple, dictionary with values 1, 2, 3
 # ======================================================================================
 
 
@@ -116,7 +116,8 @@ x = ("a", "b", "c")
 
 
 # ======================================================================================
-# 17. Print string sales_statement replacing empty brackets with words from dictionary
+# 17. Print string sales_statement replacing empty brackets with words from dictionary,
+#     last empty bracket should be filled with num_items * price
 # ======================================================================================
 
 sales_record = {
@@ -143,7 +144,7 @@ sales_statement = '{} bought {} item(s) at a price of {} each for a total of {}'
 # ======================================================================================
 
 # ======================================================================================
-# 22. Create class Pearson with attribute department set to "School" and tow methods, one
+# 22. Create class Pearson with attribute department set to "School" and two methods, one
 #     for setting name and one for setting location
 # ======================================================================================
 
